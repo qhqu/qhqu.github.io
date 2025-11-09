@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "2025 Fall Teaching experience"
 collection: teaching
-type: "Workshop"
+type: "On site"
 permalink: /teaching/2025-fall-teaching-1
 venue: "Lone Star University, Department of EE"
 date: 2025-09-01
