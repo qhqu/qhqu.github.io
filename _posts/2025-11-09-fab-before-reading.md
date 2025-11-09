@@ -11,15 +11,15 @@ tags:
 
 - **What I should master after studying?**
 
-   - Explain and sketch a full **CMOS or MEMS process flow**, including both **FEOL **(Front-End-of-Line) and **BEOL** (Back-End-of-Line) steps.
+    - Explain and sketch a full **CMOS or MEMS process flow**, including both **FEOL **(Front-End-of-Line) and **BEOL** (Back-End-of-Line) steps.
    
    
-      - Understand the **physical principles** behind each major process - *oxidation, diffusion, ion implantation, etc*.
+    - Understand the **physical principles** behind each major process - *oxidation, diffusion, ion implantation, etc*.
    
    
-      - **Evaluate trade-offs** among process, material, and performance.
+    - **Evaluate trade-offs** among process, material, and performance.
    
-      - **Design or modify** process flows for real devices.
+    - **Design or modify** process flows for real devices.
    
 
 
