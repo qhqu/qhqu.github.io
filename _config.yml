@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "The Qircuit Lab"
+title                    : "The Qircuit Space"
 title_separator          : "-"
 name                     : &name "Qircuit"
 description              : &description "What we know is a drop, what we don't know is an ocean"   # Update this with a general description of your site, this is the default if not overridden by a page
